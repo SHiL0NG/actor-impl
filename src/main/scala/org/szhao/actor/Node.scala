@@ -5,6 +5,8 @@ import java.util.concurrent.atomic.AtomicReference
 /**
  * @author zsh
  *         created 27/Aug/2020
+ *          fp in scala
+ *         https://www.youtube.com/watch?v=9XAx279s7gs
  *         https://www.slideshare.net/23derevo/nonblocking-michaelscott-queue-algorithm
  *         https://www.youtube.com/watch?v=-gCmiv1_ASg
  */
